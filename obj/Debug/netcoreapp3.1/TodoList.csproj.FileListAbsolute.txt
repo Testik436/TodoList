@@ -50,3 +50,5 @@ C:\Test\TodoList\todolist\obj\Debug\netcoreapp3.1\TodoList.dll
 C:\Test\TodoList\todolist\obj\Debug\netcoreapp3.1\TodoList.pdb
 C:\Test\TodoList\todolist\obj\Debug\netcoreapp3.1\TodoList.genruntimeconfig.cache
 C:\Test\TodoList\todolist\obj\Debug\netcoreapp3.1\TodoList.csproj.CopyComplete
+C:\Test\TodoList\todolist\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Seznam.razor.g.cs
+C:\Test\TodoList\todolist\obj\Debug\netcoreapp3.1\Razor\Pages\Seznam.razor.g.cs

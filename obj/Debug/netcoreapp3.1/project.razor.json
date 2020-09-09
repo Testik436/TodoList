@@ -144,6 +144,39 @@
         }
       },
       {
+        "HashCode": 2039750210,
+        "Kind": "Components.Component",
+        "Name": "TodoList.Pages.Seznam",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Seznam"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.Pages.Seznam"
+        }
+      },
+      {
+        "HashCode": 1784923643,
+        "Kind": "Components.Component",
+        "Name": "TodoList.Pages.Seznam",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TodoList.Pages.Seznam"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.Pages.Seznam",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 348501268,
         "Kind": "Components.Component",
         "Name": "TodoList.Pages.Todo",
@@ -273,39 +306,6 @@
         }
       },
       {
-        "HashCode": -1373506023,
-        "Kind": "Components.Component",
-        "Name": "TodoList.Shared.NavMenu",
-        "AssemblyName": "TodoList",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoList.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 319495479,
-        "Kind": "Components.Component",
-        "Name": "TodoList.Shared.NavMenu",
-        "AssemblyName": "TodoList",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TodoList.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TodoList.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -595709566,
         "Kind": "Components.Component",
         "Name": "TodoList.Shared.SurveyPrompt",
@@ -355,6 +355,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "TodoList.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1373506023,
+        "Kind": "Components.Component",
+        "Name": "TodoList.Shared.NavMenu",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 319495479,
+        "Kind": "Components.Component",
+        "Name": "TodoList.Shared.NavMenu",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TodoList.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -14786,6 +14819,11 @@
     {
       "FilePath": "c:\\Test\\TodoList\\TodoList\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Test\\TodoList\\TodoList\\Pages\\Seznam.razor",
+      "TargetPath": "Pages\\Seznam.razor",
       "FileKind": "component"
     },
     {
